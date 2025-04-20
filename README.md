@@ -21,7 +21,6 @@ Aspiring developer exploring the crossroads between code, creativity, and ethica
 ### 📫 Let's connect
 - 🌐 Website: [iamsaturn.dev](https://iamsaturn.dev)
 - 💌 Email: `hi@iamsaturn.dev`
-- 💼 LinkedIn: [linkedin.com/in/seu-username-aqui](#)
 
 ---
 
