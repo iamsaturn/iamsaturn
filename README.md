@@ -3,7 +3,7 @@
 Aspiring developer exploring the crossroads between code, creativity, and ethical tech. Currently learning Python, web development, and the foundations of machine learning — one meaningful project at a time. I also study International Relations, which helps me look at technology through a global lens.
 
 ### 🚀 What I'm working on
-- Personal website: [`iamsaturn.dev`](https://iamsaturn.dev)
+- Personal website
 - Hands-on ML & web development projects
 - Studying ethical AI and human-centered technology
 
