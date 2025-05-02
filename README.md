@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Saturn (Jonathan Ribeiro)
 
-Aspiring developer exploring the crossroads between code, creativity, and ethical tech. Currently learning Python, web development, and the foundations of machine learning — one meaningful project at a time. My background in International Relations provides a unique global perspective on technology and its impact.
+Aspiring developer exploring the crossroads between code, creativity, and ethical tech. Currently learning Python, web development, and the foundations of machine learning.
 
 🚀 What I'm working on
 
