@@ -1,29 +1,50 @@
-# 👋 Hi, I'm Saturn (Jonathan Ribeiro)
+👋 Hi, I'm Saturn (Jonathan Ribeiro)
 
-Aspiring developer exploring the crossroads between code, creativity, and ethical tech. Currently learning Python, web development, and the foundations of machine learning.
+Junior Applied AI & Python Developer interested in building practical, human-centered AI systems.  
+I work at the intersection of software engineering and applied artificial intelligence, focusing on turning unstructured data into usable, structured outputs.
 
-🚀 What I'm working on
+I care about building things that actually work — clean pipelines, clear logic, and responsible use of AI in real-world contexts.
 
-* Personal website
-* Hands-on ML & web development projects
-* Studying ethical AI and human-centered technology
+---
 
-🛠️ Technologies & Tools
+## 🚀 What I do
+- Build **applied AI projects** using Python
+- Design **LLM-based pipelines** (input → processing → structured output)
+- Work with APIs, data handling, and automation scripts
+- Translate messy text and data into reliable, structured formats
 
-* Python (Pandas, NumPy, scikit-learn)
-* R
-* HTML & CSS
-* Git & GitHub
+---
 
-🌱 Currently learning
+## 🧠 Technical focus
+- Python for automation and AI workflows
+- LLM integration (prompting, parsing, validation)
+- Data handling (JSON, basic Pandas/NumPy)
+- Clean project structure and reproducible code
 
-* Machine Learning foundations
-* JavaScript & modern frontend frameworks
-* Responsible tech practices
+---
 
-📫 Let's connect
+## 🛠️ Tools & Technologies
+- Python
+- REST APIs
+- Git & GitHub
+- Basic HTML & CSS
+- scikit-learn (foundations)
 
-* 🌐 Website: [iamsaturn.dev](https://iamsaturn.dev)
-* 💌 Email: hi@iamsaturn.dev
+---
 
-> Building slowly, dreaming far. 🌙
+## 🎓 Background
+- Computer Engineering student at the **University of Catania (UNICT), Italy**
+- Academic interests: applied AI, software engineering, and responsible technology
+
+---
+
+## 🌱 Currently improving
+- Applied machine learning foundations
+- AI system design and pipelines
+- Writing clearer, more maintainable code
+
+---
+
+## 📫 Contact
+- 🌐 Website: https://iamsaturn.dev
+- 💌 Email: hi@iamsaturn.dev
