@@ -1,4 +1,4 @@
-👋 Hi, I'm Saturn (Jonathan Ribeiro)
+#👋 Hi, I'm Saturn (Jonathan Ribeiro)
 
 Junior Applied AI & Python Developer interested in building practical, human-centered AI systems, at the intersection of software engineering and applied artificial intelligence, focusing on turning unstructured data into usable, structured outputs.
 I do care about building things that actually work clean pipelines, clear logic, and responsible use of AI in real-world context (since i'm also an International Relations student)
