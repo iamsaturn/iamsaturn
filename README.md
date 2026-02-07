@@ -1,47 +1,52 @@
 👋 Hi, I'm Saturn (Jonathan Ribeiro)
 
-Junior Applied AI & Python Developer interested in building practical, human-centered AI systems.  
-I work at the intersection of software engineering and applied artificial intelligence, focusing on turning unstructured data into usable, structured outputs.
-
-I care about building things that actually work — clean pipelines, clear logic, and responsible use of AI in real-world contexts.
+Junior Applied AI & Python Developer interested in building practical, human-centered AI systems, at the intersection of software engineering and applied artificial intelligence, focusing on turning unstructured data into usable, structured outputs.
+I do care about building things that actually work clean pipelines, clear logic, and responsible use of AI in real-world context (since i'm also an International Relations student)
 
 ---
 
-## 🚀 What I do
+## What I do (usually)
 - Build **applied AI projects** using Python
-- Design **LLM-based pipelines** (input → processing → structured output)
-- Work with APIs, data handling, and automation scripts
-- Translate messy text and data into reliable, structured formats
+- Train and evaluate **machine learning models** 
+- Design **AI pipelines** (input to processing to structured output!!)
+- Work with APIs, automation scripts, and data workflows.
+---
+
+## Technical focus
+- Python for automation, data processing, and AI workflows
+- Machine learning foundations:
+  - regression, classification, clustering
+  - model training, evaluation, and iteration...
+- LLM-based systems:
+  - prompt design
+  - structured output extraction
+  - validation and error handling
+- Data handling with JSON and basic Pandas / NumPy 
 
 ---
 
-## 🧠 Technical focus
-- Python for automation and AI workflows
-- LLM integration (prompting, parsing, validation)
-- Data handling (JSON, basic Pandas/NumPy)
-- Clean project structure and reproducible code
-
----
-
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 - Python
+- scikit-learn (foundations)
 - REST APIs
 - Git & GitHub
 - Basic HTML & CSS
-- scikit-learn (foundations)
 
 ---
 
-## 🎓 Background
+## Background
 - Computer Engineering student at the **University of Catania (UNICT), Italy**
-- Academic interests: applied AI, software engineering, and responsible technology
+- Also studying International Relations, with interests in:
+  - responsible technology
+  - applied AI in real-world systems
+  - human-centered and ethical tech
 
 ---
 
-## 🌱 Currently improving
+## Currently improving!!!
 - Applied machine learning foundations
 - AI system design and pipelines
-- Writing clearer, more maintainable code
+- Writing clearer and more maintainable code
 
 ---
 
