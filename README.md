@@ -1,55 +1,22 @@
-# Hi, I'm Saturn (Jonathan Ribeiro)
+# Hi, I'm Saturn 👋
 
-Junior Applied AI & Python Developer interested in building practical, human-centered AI systems, at the intersection of software engineering and applied artificial intelligence, focusing on turning unstructured data into usable, structured outputs.
-I do care about building things that actually work clean pipelines, clear logic, and responsible use of AI in real-world context (since i'm also an International Relations student)
+Computer Engineering student building toward **AI Engineering**.
 
----
+I use **Python** to learn software engineering, data, and applied AI by building practical projects — with a particular interest in human-centered and responsible technology.
 
-## What I do (usually)
-- Build **applied AI projects** using Python
-- Train and evaluate **machine learning models** 
-- Design **AI pipelines** (input to processing to structured output!!)
-- Work with APIs, automation scripts, and data workflows.
----
+## Currently
 
-## Technical focus
-- Python for automation, data processing, and AI workflows
-- Machine learning foundations:
-  - regression, classification, clustering
-  - model training, evaluation, and iteration...
-- LLM-based systems:
-  - prompt design
-  - structured output extraction
-  - validation and error handling
-- Data handling with JSON and basic Pandas / NumPy 
-
----
-
-## Tools & Technologies
-- Python
-- scikit-learn (foundations)
-- REST APIs
-- Git & GitHub
-- Basic HTML & CSS
-
----
+- 🐍 Building and improving my Python foundations
+- 🌐 Learning APIs, HTTP and backend development
+- 🗄️ Moving into SQL and databases
+- 🤖 Working toward Machine Learning and AI systems
 
 ## Background
-- Computer Engineering student at the **University of Catania (UNICT), Italy**
-- Also studying International Relations, with interests in:
-  - responsible technology
-  - applied AI in real-world systems
-  - human-centered and ethical tech
 
----
+🎓 Computer Engineering — University of Catania, Italy  
+🌍 International Relations background, with an interest in responsible and human-centered AI
 
-## Currently improving!!!
-- Applied machine learning foundations
-- AI system design and pipelines
-- Writing clearer and more maintainable code
+## Find me
 
----
-
-## 📫 Contact
-- 🌐 Website: https://iamsaturn.dev
-- 💌 Email: hi@iamsaturn.dev
+🌐 [linkedIn]([https://iamsaturn.dev](https://www.linkedin.com/in/jonathan-r-43b529137/))  
+💌 [arthusjonathan@gmail.com](mailto:arthusjonathan@gmail.com)
