@@ -28,7 +28,7 @@
 
 ###
 
-<p data-importer="text" align="left">🇧🇷 I'm an AI & Python Developer, currently based in Italy 🇮🇹<br><br>🔭 I'm building projects in Python and Applied AI, with a focus on machine learning and technology with social impact.<br><br>📚 I'm currently learning Python, APIs, SQL, and Machine Learning.<br><br>🌍 My background in International Relations brings a human perspective to the way I think about technology!<br><br>🎵 In my free time, I write and produce music, learn languages, and play RPGs.</p>
+<p data-importer="text" align="left">🙋🏻‍♂️ I'm a Computer Science student focused on Python and Artificial Intelligence, currently based in Italy.<br><br>🔭 I'm building projects in Python and Applied AI, with a focus on machine learning and technology with social impact.<br><br>📚 I'm currently learning Python, APIs, SQL, and Machine Learning.<br><br>🌍 My background in International Relations brings a human perspective to the way I think about technology!<br><br>🎵 In my free time, I write and produce music, learn languages, and play RPGs.</p>
 
 ###
 
