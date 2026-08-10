@@ -1,58 +1,65 @@
-# Hi, I'm Saturn 👋
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://github.com/iamsaturn/iamsaturn/blob/main/lil%20avatar.png?raw=true"  />
+</div>
 
-Computer Engineering student building toward **AI Engineering**.
+###
 
-I use **Python** to learn software engineering, data, and applied AI by building practical projects — with a particular interest in human-centered and responsible technology.
-
-## Currently
-
-- 🐍 Building and improving my Python foundations
-- 🌐 Learning APIs, HTTP and backend development
-- 🗄️ Moving into SQL and databases
-- 🤖 Working toward Machine Learning and AI systems
-
-## Background
-
-🎓 Computer Engineering — University of Catania, Italy  
-🌍 International Relations background, with an interest in responsible and human-centered AI
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jonathan-r-43b529137" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan-r-43b529137" height="30" width="40" /></a>
-<a href="https://instagram.com/jonathan.arthus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jonathan.arthus" height="30" width="40" /></a>
-<a href="https://discord.gg/lua.mp3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="lua.mp3" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-         alt="Python" width="40" height="40"/>
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/jonathan-r-43b529137/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg"
-         alt="Pandas" width="40" height="40"/>
+  <a href="https://www.instagram.com/jonathan.arthus/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
-         alt="scikit-learn" width="40" height="40"/>
+  <a href="mailto:arthusjonathan@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
+</div>
 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-         alt="C" width="40" height="40"/>
-  </a>
+###
 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-         alt="MySQL" width="40" height="40"/>
-  </a>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=99&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-         alt="Figma" width="40" height="40"/>
-  </a>
-</p>
+###
+
+<br clear="both">
+
+<h1 data-importer="text" align="center">Hi, I'm Saturn 👋</h1>
+
+###
+
+<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+
+###
+
+<p data-importer="text" align="left">🇧🇷 I'm an AI & Python Developer, currently based in Italy 🇮🇹<br><br>🔭 I'm building projects in Python and Applied AI, with a focus on machine learning and technology with social impact.<br><br>📚 I'm currently learning Python, APIs, SQL, and Machine Learning.<br><br>🌍 My background in International Relations brings a human perspective to the way I think about technology!<br><br>🎵 In my free time, I write and produce music, learn languages, and play RPGs.</p>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🔥   My Stats :</h3>
+
+###
+
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=iamsaturn&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
