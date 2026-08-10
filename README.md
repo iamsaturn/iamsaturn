@@ -18,5 +18,5 @@ I use **Python** to learn software engineering, data, and applied AI by building
 
 ## Find me
 
-🌐 [linkedIn]([https://iamsaturn.dev](https://www.linkedin.com/in/jonathan-r-43b529137/))  
+🌐 [linkedIn]((https://www.linkedin.com/in/jonathan-r-43b529137/))  
 💌 [arthusjonathan@gmail.com](mailto:arthusjonathan@gmail.com)
